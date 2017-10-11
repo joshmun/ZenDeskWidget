@@ -8,6 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="Dismiss" Content="Dismiss" HorizontalAlignment="Left" Margin="940,640,0,0" VerticalAlignment="Top" Click="Dismiss_Click"/>
 
     </Grid>
 </Page>
